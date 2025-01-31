@@ -1,6 +1,6 @@
 <?php
 $businessNames = [
-    "Alpha Innovations",
+    "Alpha Innovations LLC",
     "Blue Horizon Co.",
     "Golden Leaf Enterprises",
     "Bright Future Solutions",
